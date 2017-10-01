@@ -1,0 +1,19 @@
+{
+  "name": "pharmawars",
+  "version": "1.0.0",
+  "description": "the increase of pharma drugs on connecticuts population",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawrenceAudena/pharmawars.git"
+  },
+  "author": "lars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LawrenceAudena/pharmawars/issues"
+  },
+  "homepage": "https://github.com/LawrenceAudena/pharmawars#readme"
+}

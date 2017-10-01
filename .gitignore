@@ -1,4 +1,10 @@
-# Logs
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+I# Logs
 logs
 *.log
 npm-debug.log*
@@ -57,3 +63,5 @@ typings/
 # dotenv environment variables file
 .env
 
+#gitignore
+.gitignore
