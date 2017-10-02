@@ -1,0 +1,30 @@
+{
+    ":@computed_region_dam5_q64j": "1045",
+    ":@computed_region_m4y2_whse": "59",
+    ":@computed_region_nhmp_cq6b": "243",
+    ":@computed_region_snd5_k6zv": "8",
+    "age": "53",
+    "benzo_s": "Y",
+    "casenumber": "13-16336",
+    "date": "2013-11-09T00:00:00.000",
+    "death_city": "GROTON",
+    "death_county": "NEW LONDON",
+    "deathloc":
+    {
+        "type": "Point",
+        "coordinates": [-72.07877,
+            41.343693
+        ]
+    },
+    "deathloc_city": "GROTON",
+    "deathloc_state": "CT",
+    "immediatecausea": "Acute Combined Oxycodone, Oxymorphone, Carisoprodol,, Meprobamate, Diazepam, Nordiazepam and Trazodone Toxicities",
+    "location": "Residence",
+    "mannerofdeath": "Accident",
+    "oxyc": "Y",
+    "oxym": "Y",
+    "race": "White",
+    "residence_city": "GROTON",
+    "residence_county": "NEW LONDON",
+    "sex": "Female"
+}
